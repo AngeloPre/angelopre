@@ -8,7 +8,7 @@
 
 ## Skills & Knowledge
 
-- API's | HTTP | REST | Webhook | Design | UI/UX
+- API's | HTTP | REST | Design | UI/UX
 - AI | R | Automation | AutoIT
 - Agile Methodologies | Team Work | Professional Communication
 - Ethical Principles | Proactivity | Continuous Learning | Desire to Learn
