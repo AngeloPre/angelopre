@@ -4,12 +4,12 @@
 - **🎓 Degree**: Systems Analysis and Development Student.
 
 ## My Stack
-[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,git,github,figma,react,tailwind,nodejs,linux,java,docker,r,gamemakerstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,git,github,figma,react,angular,tailwind,nodejs,java,linux,docker,gamemakerstudio)](https://skillicons.dev)
 
 ## Skills & Knowledge
 
 - API's | HTTP | REST | Webhook | Design | UI/UX
-- AI | Data | R | Automation | AutoIT
+- AI | R | Automation | AutoIT
 - Agile Methodologies | Team Work | Professional Communication
 - Ethical Principles | Proactivity | Continuous Learning | Desire to Learn
 
