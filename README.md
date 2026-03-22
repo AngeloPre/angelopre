@@ -4,7 +4,7 @@
 - **🎓 Degree**: Systems Analysis and Development Student.
 
 ## My Stack
-[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,git,github,figma,react,tailwind,nodejs,linux,mongodb,go,r,gamemakerstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,git,github,figma,react,tailwind,nodejs,linux,java,docker,r,gamemakerstudio)](https://skillicons.dev)
 
 ## Skills & Knowledge
 
